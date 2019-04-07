@@ -1,5 +1,5 @@
 # Array-Sorting
-implementation of 4 main Array sorting algorithms :
+implementation of basic Array sorting algorithms :
 - Bubble Sort
 - Insertion Sort
 - Quick Sort
